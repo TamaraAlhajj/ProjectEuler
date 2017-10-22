@@ -1,9 +1,8 @@
 # ProjectEuler 
 
-Solutions to problems from Project Euler
-Implemented with Python3
+## Solutions to problems implemented with Python3
 
-To run any solution from terminal:
+### ENVIRONMENT
   first check is upto date with >>>python --version
   then to run, for example Problem1, solution >>>python Problem1.py 
  
