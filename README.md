@@ -2,15 +2,15 @@
 
 *Solutions to problems implemented with Python3*
 
-### ENVIRONMENT
+### Environment
   Check Python is upto date: 
   > python --version
 
-### RUN IT  
+### Run it  
   for example, to get solution to Problem1, from terminal:
   > python Problem1.py 
 
-### footnote 
+### Footnote 
 Given text files are for easy handling of data sets:
   ```
   bigNum is used in Problem8.py
